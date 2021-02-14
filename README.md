@@ -1,6 +1,6 @@
 # ReadMe Generator 
 
-ReadMe Generator we were assigned to build had to meet the following criteria: 
+We were assigned to meet the following criteria for ReadMe Generator:
 
 # Acceptance Criteria 
 
