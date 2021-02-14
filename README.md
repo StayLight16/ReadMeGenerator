@@ -26,10 +26,10 @@ THEN I am taken to the corresponding section of the README
 * Javascript
 * Node.js
 
-#Project Explanation: 
+# Project Explanation: 
 Application builds read-me's based on user inputs. 
 
-Link to application:
+# Link to application:
 https://drive.google.com/file/d/1ON4wlyz9y9OlXVVsaMgm_cwap0eUJkIT/view?usp=sharing 
     
 
