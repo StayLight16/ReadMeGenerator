@@ -2,7 +2,7 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const generate = require ("./generateMarkdown");
 
-// the answer to the questions run in node index.js are then generated in the markdownfile. The result will then appear a Readme file. 
+// the answer to the questions run in node index.js are then generated in the mark-down file. The result will then appear a Readme file. 
   
 const init = async () => {
     try {

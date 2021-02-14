@@ -1,5 +1,5 @@
 
-# Read Me Generator
+# Same thing
 ## Table of Contents
        * [Email](#Email)
        * [Username](#Username)
@@ -11,26 +11,26 @@
        * [License](#License)
        
 ## Description
-    Created application to create clean concise Read-Me files.
+    Create application that makes read-mes
 ## Installation
-    npm init
+    Run npm install -y
 ## Usage 
-    Don't know
+    make read-me's
 ## License 
-     Boost
-        ![badge](https://img.shields.io/badge/License-Boost-yellow)
+     GNU
+        ![badge](https://img.shields.io/badge/License-GNU-yellow)
 ## Contributed
-    Solo project. 
+    Solo. 
 ## Tested
      Run node index.js
 ## Questions 
-     No.
+     Nope. 
 ## Username
-    Staylight16
+    Insert name.
 ## Email 
     thisisanemail@gmail.com
 ## Repo
-    github
+    here
     
 ## Demonstration video
     undefined
